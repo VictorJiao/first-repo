@@ -1,3 +1,3 @@
 # first-repo
 VisJiao's first repo!
-$n\leq10^5$
+GitHub is so coooool!
